@@ -23,7 +23,6 @@
 
 ## 👩‍💻 IDE 
 <!-- Quine -->
-<a href="https://quine.sh"><img align = "right" src="https://stats.quine.sh/vivekquine/github?theme=dark"/></a>
 
 ![Top Graph](https://img.shields.io/badge/Eclipse_IDE_for_Java_Developers-800080?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/IntelliJ_IDEA-0000FF?style=for-the-badge&logo=android-studio&logoColor=blue)
